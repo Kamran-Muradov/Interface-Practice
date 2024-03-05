@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yyr3quVmkYLebNYkMHkLif6V0gNfvxZWxMP1io6e+XyTZuFpFxlbY4Xbitge2bs3hJXsDkyugp50tlmKwIFxEA==",
+  "success": true,
+  "projectFilePath": "C:\\Workspace Code Academy\\Interface-Practice\\Interface-Practice\\Interface-Practice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Legion\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Legion\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
